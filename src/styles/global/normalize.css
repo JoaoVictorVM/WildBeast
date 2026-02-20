@@ -17,5 +17,7 @@ a {
 }
 
 img {
-    max-width: 100px;
+    display: block;
+    width: 100%;
+    border-radius: 5px;
 }
